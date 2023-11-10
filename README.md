@@ -1,6 +1,8 @@
 # Darkside
 
-![image](https://github.com/ph4nt0mbyt3/Darkside/assets/137841478/a0489a56-7315-4863-b55f-c28a40774290)
+![image](https://github.com/ph4nt0mbyt3/Darkside/assets/137841478/afb2bed5-0cf2-427a-9002-f88ff01eecf0)
+
+
 
 
 
